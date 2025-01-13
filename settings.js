@@ -3,7 +3,7 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2347057344983"
+global.pairingNumber = "260975408000"
 
 
 
@@ -23,7 +23,7 @@ global.public = true
 global.autoreact = false
 global.antidelete = false
 global.autotyping = false
-global.autoBio = true
+global.autoBio = false
 global.antiSpam = true
 global.sign = "𓃵"
 // ☞ ➻ ➽ ☛ 〆 
@@ -37,7 +37,7 @@ global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
 global.newsletterName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
 global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.ownerName = "SKYWRLD"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
@@ -53,7 +53,7 @@ global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12801047.jpg",
 "https://wallpapercave.com/wp/wp12456894.jpg"]
 global.baileysMd = true
-global.multi = false
+global.multi = true
 global.prefa = "!"
 global.Console = false
 global.autorespon = false
@@ -63,8 +63,8 @@ global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
-global.packName = `𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎`
-global.authorName = "BLUE DEMON"
+global.packName = `SKYWRLD`
+global.authorName = "SKYNATION"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
